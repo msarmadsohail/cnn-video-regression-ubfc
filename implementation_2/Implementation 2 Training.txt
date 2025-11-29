@@ -1,0 +1,1051 @@
+
+
+
+
+
+<ipython-input-4-c9b2d6a690bd>:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  batch_labels_tensor = torch.tensor(batch_labels, dtype=torch.float32)
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [1/10], Batch Loss: 9904.8017578125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [1/10], Batch Loss: 9336.0693359375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [1/10], Batch Loss: 9250.01171875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [1/10], Batch Loss: 10230.3115234375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [1/10], Batch Loss: 9126.681640625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [1/10], Batch Loss: 7457.75439453125
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [1/10], Batch Loss: 839.3316650390625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [2/10], Batch Loss: 4844.57177734375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [2/10], Batch Loss: 4262.9169921875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [2/10], Batch Loss: 2712.438720703125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [2/10], Batch Loss: 12369.193359375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [2/10], Batch Loss: 5346.171875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [2/10], Batch Loss: 5030.6630859375
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [2/10], Batch Loss: 13.647860527038574
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [3/10], Batch Loss: 4624.20556640625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [3/10], Batch Loss: 4273.3671875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [3/10], Batch Loss: 3493.07275390625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [3/10], Batch Loss: 957.2211303710938
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [3/10], Batch Loss: 3687.389404296875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [3/10], Batch Loss: 1199.688720703125
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [3/10], Batch Loss: 547.8748168945312
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [4/10], Batch Loss: 1136.6265869140625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [4/10], Batch Loss: 1010.9754028320312
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [4/10], Batch Loss: 1482.114013671875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [4/10], Batch Loss: 3781.39501953125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [4/10], Batch Loss: 1479.182861328125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [4/10], Batch Loss: 640.0573120117188
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [4/10], Batch Loss: 4785.8896484375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [5/10], Batch Loss: 2442.75244140625
+
+
+
+
+
+
+<ipython-input-4-c9b2d6a690bd>:56: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  val_batch_labels_tensor = torch.tensor(val_batch_labels, dtype=torch.float32)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 2209692.910714286
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [5/10], Batch Loss: 4377.86962890625
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 2396862.0803571427
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [5/10], Batch Loss: 3952.526123046875
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 2587818.1071428573
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [5/10], Batch Loss: 4578.4111328125
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 1490020.4910714286
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [5/10], Batch Loss: 5670.19677734375
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 824999.5267857143
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [5/10], Batch Loss: 5201.93701171875
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 277588.984375
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [5/10], Batch Loss: 4569.85302734375
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/10], Validation Loss: 176286.3392857143
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [6/10], Batch Loss: 3154.462646484375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [6/10], Batch Loss: 5200.1982421875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [6/10], Batch Loss: 1899.547119140625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [6/10], Batch Loss: 2055.927001953125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [6/10], Batch Loss: 1527.4522705078125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [6/10], Batch Loss: 679.3610229492188
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [6/10], Batch Loss: 151.44631958007812
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [7/10], Batch Loss: 3589.1708984375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [7/10], Batch Loss: 1107.161865234375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [7/10], Batch Loss: 2134.87744140625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [7/10], Batch Loss: 1165.6065673828125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [7/10], Batch Loss: 648.47265625
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [7/10], Batch Loss: 381.4091491699219
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [7/10], Batch Loss: 1174.4482421875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [8/10], Batch Loss: 236.29042053222656
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [8/10], Batch Loss: 1543.5614013671875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [8/10], Batch Loss: 509.76531982421875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [8/10], Batch Loss: 1069.0867919921875
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [8/10], Batch Loss: 1809.5091552734375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [8/10], Batch Loss: 853.6439819335938
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [8/10], Batch Loss: 867.5505981445312
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [9/10], Batch Loss: 1375.28955078125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [9/10], Batch Loss: 548.2598876953125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [9/10], Batch Loss: 849.6898193359375
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [9/10], Batch Loss: 1235.913330078125
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [9/10], Batch Loss: 197.9704132080078
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [9/10], Batch Loss: 939.6153564453125
+
+Predictions Vector Shape:  torch.Size([1, 1, 10])
+Batch Labels Shape:  torch.Size([1, 1, 10])
+Epoch [9/10], Batch Loss: 449.0325622558594
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [10/10], Batch Loss: 4424.8798828125
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [10/10], Validation Loss: 2241.1959490094864
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [10/10], Batch Loss: 970.272216796875
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [10/10], Validation Loss: 1028.6373857770648
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [10/10], Batch Loss: 518.2359008789062
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [10/10], Validation Loss: 570.1854327065604
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [10/10], Batch Loss: 1828.7261962890625
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [10/10], Validation Loss: 826.9854027884347
+
+
+
+
+
+
+Predictions Vector Shape:  torch.Size([1, 6, 10])
+Batch Labels Shape:  torch.Size([1, 6, 10])
+Epoch [10/10], Batch Loss: 1011.2648315429688
+
+
+
+
+
+
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-4-c9b2d6a690bd> in <cell line: 12>()
+     46                 num_batches = 0
+     47 
+---> 48                 for val_video_clips, val_batch_labels in data_loader:  # Use validation data_loader
+     49                     val_video_clips = torch.stack(val_video_clips)
+     50                     val_batch_labels = torch.stack(val_batch_labels)
+
+5 frames
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/dataloader.py in __next__(self)
+    631                 # TODO(https://github.com/pytorch/pytorch/issues/76750)
+    632                 self._reset()  # type: ignore[call-arg]
+--> 633             data = self._next_data()
+    634             self._num_yielded += 1
+    635             if self._dataset_kind == _DatasetKind.Iterable and \
+
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/dataloader.py in _next_data(self)
+    675     def _next_data(self):
+    676         index = self._next_index()  # may raise StopIteration
+--> 677         data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+    678         if self._pin_memory:
+    679             data = _utils.pin_memory.pin_memory(data, self._pin_memory_device)
+
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/_utils/fetch.py in fetch(self, possibly_batched_index)
+     49                 data = self.dataset.__getitems__(possibly_batched_index)
+     50             else:
+---> 51                 data = [self.dataset[idx] for idx in possibly_batched_index]
+     52         else:
+     53             data = self.dataset[possibly_batched_index]
+
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/_utils/fetch.py in <listcomp>(.0)
+     49                 data = self.dataset.__getitems__(possibly_batched_index)
+     50             else:
+---> 51                 data = [self.dataset[idx] for idx in possibly_batched_index]
+     52         else:
+     53             data = self.dataset[possibly_batched_index]
+
+<ipython-input-1-120e010b432d> in __getitem__(self, index)
+     25         label = self.labels[index]
+     26         # print(video_path, index, label)
+---> 27         clips, clips_labels = self._load_video(video_path, label)
+     28         return clips, clips_labels
+     29 
+
+<ipython-input-1-120e010b432d> in _load_video(self, video_path, label)
+     82         # print(frame_indices)
+     83         # Randomly choose 16 frame indices
+---> 84         selected_indices = np.random.choice(frame_indices, size=self.frame_length, replace=False)
+     85 
+     86         # Convert labels to a NumPy array
+
+mtrand.pyx in numpy.random.mtrand.RandomState.choice()
+
+ValueError: 'a' cannot be empty unless no samples are taken
+
+Write an exception that if this error occurs again then break
